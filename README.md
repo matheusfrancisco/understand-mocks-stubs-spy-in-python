@@ -49,7 +49,9 @@ remover algumas depencencias e criar testes unitarios
 ## Links
 
 https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html
+
 http://xunitpatterns.com/Test Double Patterns.html
+
 https://docs.python.org/3/library/unittest.mock.html
 
 
